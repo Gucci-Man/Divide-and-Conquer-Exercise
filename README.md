@@ -1,6 +1,6 @@
 # Created by Adel Ngo
 
-The following are functions that demmostrate the divide and conquer algorithm. Tests are ran with jest. 
+The following are functions that demonstrate the divide and conquer algorithm. Tests are ran with jest. 
 
 1. countZeroes
 
